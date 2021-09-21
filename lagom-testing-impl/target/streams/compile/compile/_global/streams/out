@@ -1,0 +1,13 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Desktop/Lagom_Persist/lagom-testing-impl/src/main/scala/org/knoldus/service/LagomCRUDEntityImpl.scala:29:41: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following input: Rejected(_)[0m
+[0m[[0m[33mwarn[0m] [0m[0m        AddUserCommand(user, reply)).map{[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                        ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Desktop/Lagom_Persist/lagom-testing-impl/src/main/scala/org/knoldus/service/LagomCRUDEntityImpl.scala:51:12: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following input: Rejected(_)[0m
+[0m[[0m[33mwarn[0m] [0m[0m      ).map{[0m
+[0m[[0m[33mwarn[0m] [0m[0m           ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Desktop/Lagom_Persist/lagom-testing-impl/src/main/scala/org/knoldus/service/LagomCRUDEntityImpl.scala:60:7: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following input: None[0m
+[0m[[0m[33mwarn[0m] [0m[0m      idOption match {[0m
+[0m[[0m[33mwarn[0m] [0m[0m      ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mthree warnings found[0m

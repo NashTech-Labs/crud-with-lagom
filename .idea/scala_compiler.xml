@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="Lagom_Persist,lagom-CRUD-api,lagom-CRUD-entity,lagom-CRUD-impl,lagom-internal-meta-project-cassandra,lagom-internal-meta-project-kafka,lagom-internal-meta-project-service-locator,lagom-persistent-entity,lagom-testing-api,lagom-testing-impl" />
+  </component>
+</project>
